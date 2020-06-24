@@ -1,0 +1,1050 @@
+@font-face {
+    font-family: myFontPrimary;
+    src: url(../font/Champagne-Limousines.ttf);
+}
+
+.fontPrimary {
+    font-family: myFontPrimary;
+    font-weight: 500;
+}
+
+section.primeira-div {
+    background-color: #FF405E
+}
+
+
+
+.primeira-div {
+    padding-top: 5%;
+}
+
+.primeira-div .img-fluid {}
+
+.img-fluid-cel {
+    display: none;
+}
+
+.primeira-div h1 {
+    font-size: 5em;
+    margin-left: -25%;
+    margin-top: 43%;
+}
+
+.primeira-div h2 {
+    font-size: 5em;
+    margin-top: -8%;
+    margin-left: 5%;
+}
+
+.primeira-div ul {
+    list-style: none;
+    margin-top: 180%;
+}
+
+.primeira-div ul li {
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+.primeira-div ul a {}
+
+.primeira-div li a img {
+    width: 100%
+}
+
+
+
+
+.segunda-div {
+    background-color: #0E1C39;
+    padding-bottom: 3%;
+}
+
+.segunda-div p {
+    color: #FFF;
+    margin-left: 15%
+}
+
+.segunda-div .div-p {
+    margin-left: 4%;
+}
+
+.segunda-div .div-img {}
+
+.segunda-div .div-img img {}
+
+.segunda-div .div-img .vazado-primeiro {
+    display: block;
+    float: right;
+    margin-right: -2.8%;
+    margin-top: -1%;
+}
+
+.vazado-primeiro-cel {
+    display: none;
+}
+
+.segunda-div .div-img .livro {
+    display: block;
+    float: right;
+    margin-right: -2.8%;
+}
+
+
+
+
+
+
+
+.terceira-div {
+    padding: 0 5% !important;
+    background-image: linear-gradient(#FCE608 63%, #FFF 37%);
+}
+
+.vazado-segundo-cel {
+    display: none;
+}
+
+.terceira-div .vazado-segundo {
+    margin-top: -10%;
+    margin-left: 3%;
+    float: left;
+    margin-bottom: 100%;
+}
+
+.terceira-div .capa {
+    margin-left: 5%;
+    margin-top: 12%;
+    width: 70%;
+}
+
+.terceira-div .pre-venda {
+    background-color: #FF405E;
+    color: #FFF;
+    text-transform: uppercase;
+    width: 70%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+
+.desc-livro-cel {
+    display: none;
+}
+
+.terceira-div .desc-livro h3 {
+    font-size: 4em;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    padding-left: 8%
+}
+
+.terceira-div .desc-livro h4 {
+    font-size: 3.5em;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    padding-left: 8%
+}
+
+.terceira-div .vazado-terceiro {
+    margin-top: -18%;
+    float: right;
+    margin-right: -30%;
+}
+
+.terceira-div .vazado-quarto {
+    margin-top: 212%;
+    float: right;
+    margin-right: -45%;
+    margin-bottom: -320%;
+}
+
+.desc-livro p {
+    padding-right: 0%;
+    padding-left: 8%
+}
+
+
+
+
+
+
+
+.quarta-div {
+    background-color: #0E1C39;
+    padding-left: 8%
+}
+
+.quarta-div .col-md-4 {
+    margin-left: 6%;
+}
+
+.quarta-div h4 {
+    font-size: 4em;
+    color: #FFF;
+}
+
+.quarta-div .col-md-7 {
+    color: #FFF;
+}
+
+.quarta-div .col-md-7 ul {
+    list-style: none;
+    margin-top: 1%;
+}
+
+.quarta-div ul li {
+    margin-bottom: 2%;
+}
+
+.quarta-div ul li img {
+    width: 7%;
+    height: 7%;
+    margin-right: 1.5%;
+}
+
+
+
+
+
+
+.quinta-div {
+    background-color: #FCE608;
+    color: #0E1C39;
+    padding-left: 8%;
+}
+
+.quinta-div .col-md-4 {
+    margin-left: 6%;
+}
+
+.quinta-div .col-md-7 {
+    margin-left: 2%;
+    padding-right: 5%;
+}
+
+.quinta-div h4 {
+    font-size: 3em;
+}
+
+.quinta-div p {
+    font-size: 1.1em;
+    margin-top: 2%;
+}
+
+.quinta-div .btn {
+    background-color: #FF405E;
+    color: #FFF;
+    font-weight: bold;
+    width: 40%;
+    margin-top: 3%;
+}
+
+
+
+
+.sexta-div {
+    padding-left: 8%;
+}
+
+.sexta-div .col-md-4 h4 {
+    font-size: 3em;
+    margin-left: 19%;
+}
+
+.sexta-div .col-md-7 {
+    margin-left: 7%;
+}
+
+.sexta-div form label {
+    display: none;
+}
+
+.sexta-div .form-group {
+    float: left;
+}
+
+.sexta-div button {
+    background-color: #FF405E;
+    color: #FFF;
+    font-weight: bold;
+    width: 37%;
+    margin-left: 2%;
+}
+
+.vazado-ultimo-cel {
+    display: none;
+}
+
+
+footer {}
+
+footer ul {
+
+    list-style: none;
+}
+
+footer ul li:nth-last-of-type(2) {
+    margin: 0 1%
+}
+
+
+
+
+
+
+/* Início  Resolução 1920 x 1080    */
+@media(min-width: 1920px) {
+    section {
+        padding: 0 6%;
+    }
+}
+
+/* Fim  Resolução 1920 x 1080    */
+
+
+@media(max-width: 1329px) {
+    .terceira-div .vazado-segundo {
+        margin-top: -10%;
+        margin-left: 3%;
+        float: left;
+        margin-bottom: 0%;
+        width: 20%;
+    }
+
+    .terceira-div .capa {
+        margin-left: 5%;
+        margin-top: 12%;
+        width: 70%;
+        float: left;
+    }
+
+    .terceira-div .pre-venda {
+        background-color: #FF405E;
+        color: #FFF;
+        text-transform: uppercase;
+        width: 70%;
+        margin-left: 28%;
+        margin-top: 5%;
+        margin-bottom: 25%;
+    }
+
+    .terceira-div .vazado-terceiro {
+        margin-top: -7%;
+        float: right;
+        margin-right: -30%;
+    }
+
+    .sexta-div {
+        padding-left: 8%;
+    }
+
+    .quinta-div h4 {
+        font-size: 2.5em;
+    }
+
+    .sexta-div .col-md-4 h4 {
+        font-size: 2.5em;
+        margin-left: 19%;
+    }
+
+    .sexta-div .col-md-7 {
+        margin-left: 7%;
+    }
+}
+
+@media(max-width: 1024px) {
+    .primeira-div h1 {
+        font-size: 5em;
+        margin-left: -15%;
+        margin-top: 43%;
+    }
+
+    .primeira-div ul {
+        list-style: none;
+        margin-top: 150%;
+        width: 100%;
+        padding: 25%;
+    }
+
+    .primeira-div ul li {
+        text-align: center;
+        margin-bottom: 20%;
+        width: 100% !important;
+    }
+
+    .primeira-div ul a {
+        width: 100%;
+    }
+
+    .primeira-div li a img {
+        width: 100%
+    }
+
+    .segunda-div p {
+        color: #FFF;
+        margin-left: 15%;
+        margin-top: 6%;
+    }
+
+    .terceira-div .vazado-segundo {
+        display: none;
+
+    }
+
+    .terceira-div .capa {
+        margin-left: 0%;
+        margin-top: 12%;
+        width: 100%;
+        float: left;
+    }
+
+    .terceira-div .pre-venda {
+        background-color: #FF405E;
+        color: #FFF;
+        text-transform: uppercase;
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 5%;
+        margin-bottom: 25%;
+    }
+
+    .terceira-div .vazado-terceiro {
+        margin-top: -25%;
+        float: right;
+        margin-right: -30%;
+    }
+
+    .terceira-div .vazado-quarto {
+        display: none;
+    }
+
+    .terceira-div {
+        padding: 0 5% !important;
+        background-image: linear-gradient(#FCE608 73%, #FFF 27%);
+    }
+
+    .quarta-div {
+        background-color: #0E1C39;
+        padding-left: 0%
+    }
+
+    .quarta-div .col-md-4 {
+        margin-left: 6%;
+    }
+
+    .quarta-div h4 {
+        font-size: 3em;
+        color: #FFF;
+    }
+
+    .quarta-div .col-md-7 {
+        color: #FFF;
+    }
+
+    .quarta-div .col-md-7 ul {
+        list-style: none;
+        margin-top: 1%;
+    }
+
+    .quarta-div ul li {
+        margin-bottom: 2%;
+    }
+
+    .quarta-div ul li img {
+        width: 8%;
+        height: 8%;
+        margin-right: 1.5%;
+    }
+}
+
+
+
+
+
+/* Início  Resolução Celular   */
+@media(max-width: 768px) {
+    .primeira-div .icons {
+        display: none;
+    }
+
+    .primeira-div .img-fluid {
+        display: none;
+    }
+
+    .primeira-div .img-fluid-cel {
+        display: block;
+    }
+
+    .livro {
+        display: none !important;
+    }
+
+    .vazado-primeiro {
+        display: none !important;
+    }
+
+    .vazado-primeiro-cel {
+        display: block;
+        width: 35%;
+        margin-left: 65%;
+        margin-top: -2%;
+    }
+
+    .foto {
+        margin-left: -4%;
+    }
+
+    .name {
+        position: absolute;
+        left: 57%;
+        width: 30%;
+        top: 16%;
+    }
+
+    .name h1 {
+        font-size: 2.8em;
+        line-height: 97%;
+        margin-left: -50%;
+    }
+
+    .name h2 {
+        font-size: 2.3em;
+        margin-top: -25%
+    }
+
+    .vazado-terceiro,
+    .vazado-quarto {
+        display: none;
+    }
+
+    .segunda-div p {
+        color: #FFF;
+        margin-left: 0%;
+        font-size: 0.95em;
+        margin-bottom: 0;
+    }
+
+    .vazado-segundo {
+        display: none;
+    }
+
+    .terceira-div {
+        padding: 2% !important;
+    }
+
+    .desc-livro {
+        display: none;
+    }
+
+    .desc-livro-cel {
+        display: block;
+    }
+
+    .desc-livro-cel h3 {
+        font-size: 4em;
+        margin-top: -20%;
+    }
+
+    .desc-livro-cel p {
+        padding: 0 0.5%;
+        font-size: 0.9em;
+        font-weight: 500;
+        margin-bottom: -5%;
+        margin-top: 10%
+    }
+
+    .terceira-div {
+        padding: 0 0% !important;
+        background-image: linear-gradient(#FCE608 70%, #FFF 30%);
+    }
+
+    .terceira-div .col-md-4 {}
+
+    .capa {
+        width: 70% !important;
+        margin-left: 15% !important;
+        margin-right: 15%
+    }
+
+    .pre-venda {
+        width: 70% !important;
+        margin-left: 15% !important;
+        margin-right: 15%;
+        font-size: 0.85em;
+        margin-bottom: -4% !important;
+    }
+
+    .p-desc {
+        width: 100%;
+        margin-top: 0;
+        margin-bottom: 15%;
+        text-align: center;
+    }
+
+    .vazado-segundo-cel {
+        display: block;
+        width: 40%;
+        margin-left: 60%;
+        margin-top: -10%;
+    }
+
+    .quarta-div {
+        padding: 0;
+    }
+
+    .quarta-div h4 {
+        font-size: 2.5em;
+        color: #FFF;
+        margin-top: -8%;
+        line-height: 100%;
+        margin-bottom: 12%;
+    }
+
+    .quarta-div ul {
+        padding: 0 5%;
+        font-size: 0.8em;
+    }
+
+    .quarta-div ul li {
+        margin-bottom: 3%;
+    }
+
+    .quarta-div ul li img {
+        width: 20%;
+        height: 20%;
+        margin-right: 5%;
+    }
+
+    .quarta-div ul li p {
+        line-height: 140%;
+        margin-top: -2%;
+    }
+
+    .vazado-ultimo-cel {
+        display: block;
+        position: absolute;
+        top: -4%;
+        right: 0
+    }
+
+    .quinta-div {
+        padding: 0;
+    }
+
+    .quinta-div h4 {
+        font-size: 2.3em;
+        padding: 0;
+        margin: 0 0 6% 0;
+        width: 100%;
+        margin-left: 0%
+    }
+
+    .quinta-div p {
+        font-size: 0.9em;
+        font-weight: 500;
+        padding: 0 0.5%
+    }
+
+    .quinta-div a {
+        width: 80% !important;
+        margin-left: 10%;
+    }
+
+
+    .sexta-div {
+        padding: 0;
+        padding-bottom: 0 !important;
+    }
+
+    .sexta-div h4 {
+        font-size: 2.3em !important;
+        padding: 0;
+        margin-left: 12% !important;
+        margin-bottom: 5%;
+    }
+
+    .sexta-div input,
+    textarea {
+        border: 1px solid #242424 !important;
+        width: 92% !important;
+    }
+
+    .sexta-div textarea {
+        height: 150px;
+    }
+
+    .sexta-div button {
+        width: 83%;
+        margin-left: 5%;
+    }
+
+    footer {}
+
+    footer div {
+        padding: 0 !important;
+    }
+
+    footer ul {
+        padding: 0;
+        margin: 0;
+    }
+
+    footer ul li:nth-last-of-type(2) {
+        margin: 0 3%
+    }
+}
+
+@media(max-width: 667px) {
+    .primeira-div .img-fluid-cel {
+        display: block;
+    }
+
+    .vazado-primeiro-cel {
+        display: block;
+        width: 25%;
+        margin-left: 73%;
+        margin-top: -2%;
+    }
+
+    .foto {
+        margin-left: -4%;
+    }
+
+    .name {
+        position: absolute;
+        left: 50%;
+        width: 40%;
+        top: 9%;
+        margin-left: 10%;
+    }
+
+    .name h1 {
+        font-size: 3.5em;
+        line-height: 97%;
+        margin-left: -50%;
+    }
+
+    .segunda-div p {
+        color: #FFF;
+        margin-left: 5%;
+        margin-top: 0;
+    }
+
+    .terceira-div {
+        padding: 0 0% !important;
+        background-image: linear-gradient(#FCE608 60%, #FFF 40%);
+    }
+
+    .terceira-div h3 {
+        margin-left: 5%;
+        margin-top: -8%;
+    }
+
+    .terceira-div p {
+        padding: 0 5%;
+    }
+
+    .terceira-div .vazado-segundo-cel {
+        width: 30%;
+        margin-left: 70%;
+    }
+
+    .capa {
+        width: 40% !important;
+        margin-left: 30% !important;
+        margin-right: 30%
+    }
+
+    .pre-venda {
+        width: 40% !important;
+        margin-left: 30% !important;
+        margin-right: 30%;
+        font-size: 0.85em;
+        margin-bottom: -4% !important;
+    }
+
+    .p-desc {
+        width: 100%;
+        margin-top: 0;
+        margin-bottom: 15%;
+        text-align: center;
+    }
+
+    .vazado-segundo-cel {
+        display: block;
+        width: 40%;
+        margin-left: 60%;
+        margin-top: -10%;
+    }
+
+    .quarta-div {
+        padding: 0;
+    }
+
+    .quarta-div h4 {
+        width: 94%;
+        padding: 2% 0;
+        text-align: center;
+        margin-bottom: 5%;
+    }
+
+    .quarta-div ul {
+        padding: 0 15%;
+        font-size: 1em;
+    }
+
+    .quarta-div ul li {
+        margin-bottom: 3%;
+    }
+
+    .quarta-div ul li img {
+        width: 20%;
+        height: 20%;
+        margin-right: 5%;
+    }
+
+    .quarta-div ul li p {
+        line-height: 140%;
+        margin-top: -2%;
+    }
+
+    .vazado-ultimo-cel {
+        display: none;
+        position: absolute;
+        top: -4%;
+        right: 0
+    }
+     .quinta-div {
+        padding: 0;
+    }
+
+    .quinta-div h4 {
+        font-size: 2.5em;
+        padding: 0;
+        margin: 0 0 6% 0;
+        width: 94%;
+        margin-left: 0%;
+        text-align: center;
+    }
+
+    .quinta-div p {
+        font-size: 0.9em;
+        font-weight: 500;
+        padding: 0 0.5%
+    }
+
+    .quinta-div a {
+        width: 80% !important;
+        margin-left: 10%;
+    }
+    .sexta-div {
+        padding: 0;
+        padding-bottom: 0 !important;
+        text-align: center;
+        width: 90%;
+    }
+
+    .sexta-div h4 {
+        font-size: 2.3em !important;
+        padding: 0;
+        
+    }
+    .sexta-div form{
+        width: 90%;
+        margin-left: 10%;
+    }
+    .sexta-div form button{
+        width: 86%;
+        margin-left: -7%;
+    }
+}
+
+@media(max-width: 375px) {
+    .primeira-div .img-fluid-cel {
+        display: block;
+    }
+
+    .vazado-primeiro-cel {
+        display: block;
+        width: 25%;
+        margin-left: 73%;
+        margin-top: -4%;
+    }
+
+    .foto {
+        margin-left: -4%;
+    }
+
+    .name {
+        position: absolute;
+        left: 60%;
+        width: 35%;
+        top: 15%;
+        margin-left: 5%;
+    }
+
+    .name h1 {
+        font-size: 2.5em;
+        line-height: 97%;
+        margin-left: -50%;
+    }
+
+    .segunda-div p {
+        color: #FFF;
+        margin-left: 5%;
+        margin-top: 0;
+    }
+
+    .terceira-div {
+        padding: 0 0% !important;
+        background-image: linear-gradient(#FCE608 75%, #FFF 25%);
+    }
+
+    .terceira-div h3 {
+        margin-left: 5%;
+        margin-top: -25%;
+    }
+
+    .terceira-div p {
+        padding: 0 5%;
+    }
+
+    .terceira-div .vazado-segundo-cel {
+        width: 30%;
+        margin-left: 70%;
+        margin-top: -15%;
+    }
+
+    .capa {
+        width: 60% !important;
+        margin-left: 20% !important;
+        margin-right: 20%
+    }
+
+    .pre-venda {
+        width: 60% !important;
+        margin-left: 20% !important;
+        margin-right: 20%;
+        font-size: 0.7em;
+        margin-bottom: -4% !important;
+    }
+
+    .p-desc {
+        width: 100%;
+        margin-top: 0;
+        margin-bottom: 15%;
+        text-align: center;
+    }
+
+    .vazado-segundo-cel {
+        display: block;
+        width: 40%;
+        margin-left: 60%;
+        margin-top: -10%;
+    }
+
+    .quarta-div {
+        padding: 0;
+    }
+
+    .quarta-div h4 {
+        width: 94%;
+        padding: 2% 0;
+        text-align: center;
+        margin-bottom: 5%;
+    }
+
+    .quarta-div ul {
+        padding: 0 5%;
+        font-size: 1em;
+    }
+
+    .quarta-div ul li {
+        margin-bottom: 3%;
+    }
+
+    .quarta-div ul li img {
+        width: 20%;
+        height: 20%;
+        margin-right: 5%;
+    }
+
+    .quarta-div ul li p {
+        line-height: 140%;
+        margin-top: -2%;
+    }
+
+    .vazado-ultimo-cel {
+        display: none;
+        position: absolute;
+        top: -4%;
+        right: 0
+    }
+     .quinta-div {
+        padding: 0;
+    }
+
+    .quinta-div h4 {
+        font-size: 2.5em;
+        padding: 0;
+        margin: 0 0 6% 0;
+        width: 94%;
+        margin-left: 0%;
+        text-align: center;
+    }
+
+    .quinta-div p {
+        font-size: 0.9em;
+        font-weight: 500;
+        padding: 0 0.5%
+    }
+
+    .quinta-div a {
+        width: 80% !important;
+        margin-left: 10%;
+    }
+    .sexta-div {
+        padding: 0;
+        padding-bottom: 0 !important;
+        text-align: center;
+        width: 90%;
+    }
+
+    .sexta-div h4 {
+        font-size: 2.3em !important;
+        padding: 0;
+        
+    }
+    .sexta-div .col-md-7{
+        width: 100%;
+        padding: 0;
+    }
+    .sexta-div .form{
+        width: 100%;
+    }
+    .sexta-div .form-group{
+        width: 100%;
+        padding: 0;
+        margin: 0 0 5% -3.2%;
+    }
+    .sexta-div .form-group input, textarea, button{
+        width: 100%!important
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Fim  Resolução Celular    */
